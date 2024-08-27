@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+elasticsearch
+sqlalchemy
+asyncpg
+pydantic
+databases
+httpx
